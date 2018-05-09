@@ -40,8 +40,22 @@
                         <li class="">
                             <a title="Home" href="index.php">Home</a>
                         </li>
-                        <li class="menu-item"><a href="#">Partner</a></li>
-                        <li class="menu-item"><a href="shop.php">Shop</a></li>
+                        <li class="menu-item"><a href="Brands.php">Brands</a></li>
+                        <li class="menu-item menu-item-has-children">
+                            <a title="Blog" href="javascript:void(0)">Shop</a>
+                            <ul role="menu" class=" submenu">
+                                <li class="menu-item"><a href="blog-fullwidth.html">Blogs full width</a></li>
+                                <li class="menu-item"><a href="blog-left-sidebar.html">Blogs left sidebar</a></li>
+                                <li class="menu-item menu-item-has-children">
+                                    <a href="javascript:void(0)">Blogs right sidebar</a>
+                                    <ul role="menu" class=" submenu">
+                                        <li class="menu-item"><a href="blog-fullwidth.html"> _!_ خد </a></li>
+                                        <li class="menu-item"><a href="blog-left-sidebar.html">Blogs left sidebar</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+
                         <li class="menu-item"><a href="about.php">About us</a></li>
                         <li class="menu-item"><a href="contact.php">Contact</a></li>
 
@@ -72,7 +86,8 @@
                                             <ol class="minicart-items">
                                                 <li class="item">
                                                     <a class="thumb" href="#">
-                                                        <img width="180" height="233" src="images/3-180x233.png" alt="img" >
+                                                        <img width="180" height="233" src="images/3-180x233.png"
+                                                             alt="img">
                                                     </a>
                                                     <div class="info">
                                                         <h3 class="product-name">Clemence Blouse</h3>
@@ -88,7 +103,8 @@
                                                 </li>
                                                 <li class="item">
                                                     <a class="thumb" href="#">
-                                                        <img width="180" height="233" src="images/3-180x233.png" alt="img" >
+                                                        <img width="180" height="233" src="images/3-180x233.png"
+                                                             alt="img">
                                                     </a>
                                                     <div class="info">
                                                         <h3 class="product-name">Clemence Blouse</h3>
@@ -134,7 +150,8 @@
                 <form method="post" action="#" class="form-search form-search-position">
                     <div class="form-content">
                         <input type="text" class="input" name="s" value="" placeholder="Search...">
-                        <button class="btn-search" type="submit"><span class="flaticon-magnifying-glass"></span></button>
+                        <button class="btn-search" type="submit"><span class="flaticon-magnifying-glass"></span>
+                        </button>
                     </div>
                 </form><!-- block search -->
             </div>

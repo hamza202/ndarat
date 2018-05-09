@@ -529,93 +529,18 @@
 
         <div class="container">
             <h2 class="heading-bg main-heading color-dark-bg upper">brand</h2>
-            <div class="linda-products with-owl-nav"><!-- Remove class with-owl-nav if set data-nav=false -->
-                <!-- OWL Products -->
-                <div class="product-list-owl owl-carousel nav-top-right " data-autoplay="false" data-nav="true"
-                     data-loop="true" data-slidespeed="200" data-margin="30"
-                     data-responsive='{"0":{"items":1, "margin":30}, "480":{"items":2, "margin":30}, "768":{"items":3, "margin":30}, "992":{"items":3, "margin":30}, "1200":{"items":4, "margin":30}}'>
-                    <!-- Single Item -->
-                    <div class="owl-one-row">
-                        <div class="banner-item" data-aos=""
-                             data-aos-easing="linear"
-                             data-aos-duration="1000">
-                            <a href="shop.php" target="_self" class="banner-effect banner-effect1">
-                                <div class="banner">
-                                    <img width="777" height="273" src="images/banner-04.jpg" class="img-responsive"
-                                         alt="img">
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Single Item -->
-                    <div class="owl-one-row">
-                        <div class="banner-item" data-aos=""
-                             data-aos-easing="linear"
-                             data-aos-duration="1000">
-                            <a href="shop.php" target="_self" class="banner-effect banner-effect2">
-                                <div class="banner">
-                                    <img width="777" height="273" src="images/banner-05.jpg" class="img-responsive"
-                                         alt="img">
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Single Item -->
-                    <div class="owl-one-row">
-                        <div class="banner-item" data-aos=""
-                             data-aos-easing="linear"
-                             data-aos-duration="1000">
-                            <a href="shop.php" target="_self" class="banner-effect banner-effect1">
-                                <div class="banner">
-                                    <img width="777" height="273" src="images/banner-04.jpg" class="img-responsive"
-                                         alt="img">
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Single Item -->
-                    <div class="owl-one-row">
-                        <div class="banner-item" data-aos=""
-                             data-aos-easing="linear"
-                             data-aos-duration="1000">
-                            <a href="shop.php" target="_self" class="banner-effect banner-effect2">
-                                <div class="banner">
-                                    <img width="777" height="273" src="images/banner-05.jpg" class="img-responsive"
-                                         alt="img">
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <!-- Single Item -->
-                    <div class="owl-one-row">
-                        <div class="banner-item" data-aos=""
-                             data-aos-easing="linear"
-                             data-aos-duration="1000">
-                            <a href="shop.php" target="_self" class="banner-effect banner-effect1">
-                                <div class="banner">
-                                    <img width="777" height="273" src="images/banner-04.jpg" class="img-responsive"
-                                         alt="img">
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Single Item -->
-                    <div class="owl-one-row">
-                        <div class="banner-item" data-aos=""
-                             data-aos-easing="linear"
-                             data-aos-duration="1000">
-                            <a href="shop.php" target="_self" class="banner-effect banner-effect2">
-                                <div class="banner">
-                                    <img width="777" height="273" src="images/banner-05.jpg" class="img-responsive"
-                                         alt="img">
-                                </div>
-                            </a>
-                        </div>
-                    </div>
+            <div class="row tow-top-img">
+                <div class="col-sm-6">
+                    <a href="#" class="a-img-containrt">
+                        <span>Lessens</span>
+                        <img class="img-responsive" src="images/bb1.jpg" alt="">
+                    </a>
+                </div>
+                <div class="col-sm-6">
+                    <a href="#" class="a-img-containrt">
+                        <span>Frames</span>
+                        <img class="img-responsive" src="images/bb2.jpg" alt="">
+                    </a>
                 </div>
             </div>
         </div>
