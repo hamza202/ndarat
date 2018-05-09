@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="57e60e4a-2721-4678-9460-3af9170ae344" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/css/custom-css.css" afterPath="$PROJECT_DIR$/css/custom-css.css" />
-      <change beforePath="$PROJECT_DIR$/shop-details.php" afterPath="$PROJECT_DIR$/shop-details.php" />
+      <change beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change beforePath="$PROJECT_DIR$/images/payment.png" afterPath="$PROJECT_DIR$/images/payment.png" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,9 +68,22 @@
       <file leaf-file-name="custom-css.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom-css.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="1902" column="21" lean-forward="false" selection-start-line="1902" selection-start-column="21" selection-end-line="1902" selection-end-column="21" />
+            <state relative-caret-position="331">
+              <caret line="1914" column="22" lean-forward="false" selection-start-line="1914" selection-start-column="22" selection-end-line="1914" selection-end-column="22" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="42" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#footer#0;n#!!top" expanded="false" />
+                <element signature="e#1169#1174#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,6 +144,7 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/fff.css" />
         <option value="$PROJECT_DIR$/shop-details.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/css/custom-css.css" />
       </list>
     </option>
@@ -141,7 +156,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="103" />
     <option name="y" value="96" />
     <option name="width" value="1381" />
@@ -212,15 +227,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525865263304</updated>
-      <workItem from="1525865267997" duration="8745000" />
+      <workItem from="1525865267997" duration="9828000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8745000" />
+    <option name="totallyTimeSpent" value="9828000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -258,14 +273,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
           <caret line="46" column="51" lean-forward="true" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -329,10 +336,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="42" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#footer#0;n#!!top" expanded="false" />
+            <element signature="e#1169#1174#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/custom-css.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="1902" column="21" lean-forward="false" selection-start-line="1902" selection-start-column="21" selection-end-line="1902" selection-end-column="21" />
+        <state relative-caret-position="331">
+          <caret line="1914" column="22" lean-forward="false" selection-start-line="1914" selection-start-column="22" selection-end-line="1914" selection-end-column="22" />
           <folding />
         </state>
       </provider>

@@ -3,84 +3,44 @@
     <div class="container">
         <div class="row ">
             <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 col-lg-4 col-md-12">
-                        <div class="column-inner">
-                            <figure class="footer-logo figure">
-                                <img width="220" height="29" src="images/logo.png" class="single_image-img attachment-full" alt="img">
-                            </figure>
-                            <div class="footer-address">
-                                <p>Giambae Group LLC
-                                    <br>
-                                    Phone:
-                                    914 488 4025
-                                    <br>
+                    <div class="row mt--50">
+                        <div class="col-sm-12 col-lg-8 col-md-12">
+                            <div class="column-inner custom_1484671589428">
+                                <div class="widget widget_nav_menu">
+                                    <div class="menu-footer-store-container">
+                                        <ul id="menu-footer-store" class="menu">
+                                            <li class="menu-item col-sm-3 col-xs-6"><a href="http://ecommerce.mapmall.co/about-us">About Us</a></li>
 
-                                    Fax:
-                                    914 840 8575
-                                </p>
+                                            <li class="menu-item col-sm-3 col-xs-6"><a href="http://ecommerce.mapmall.co/contact-us">Help</a></li>
+
+                                            <li class="menu-item col-sm-3 col-xs-6"><a href="http://ecommerce.mapmall.co/privacy">Privacy Policy</a></li>
+                                            <li class="menu-item col-sm-3 col-xs-6"><a href="http://ecommerce.mapmall.co/conditions">Terms &amp; Conditions</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
                             </div>
-                            <figure class="figure payment-icons">
-                                <img width="342" height="21" src="images/payment.png" class="single_image-img attachment-full" alt="img">
-                            </figure>
                         </div>
-                    </div>
-                    <div class="col-sm-6 col-lg-2 col-md-3">
-                        <div class="column-inner custom_1484671589428">
-                            <div class="widget widget_nav_menu">
-                                <h2 class="widgettitle">STORE MENU</h2>
-                                <div class="menu-footer-store-container">
-                                    <ul id="menu-footer-store" class="menu">
-                                        <li class="menu-item"><a href="#">Best Seller</a></li>
-                                        <li class="menu-item"><a href="#">New Arrivals</a></li>
-                                        <li class="menu-item"><a href="#">Men</a></li>
-                                        <li class="menu-item"><a href="#">Women</a></li>
-                                        <li class="menu-item"><a href="#">Accessories</a></li>
-                                    </ul>
+                        <div class="col-sm-12 col-lg-4 col-md-12 text-center">
+                            <div class="column-inner ">
+                                <div class="widget widget_nav_menu">
+                                    <figure class="figure payment-icons">
+                                        <img width="342" height="21" src="images/payment.png" class="single_image-img attachment-full" alt="img">
+                                    </figure>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-lg-2 col-md-3">
-                        <div class="column-inner ">
-                            <div class="widget widget_nav_menu">
-                                <h2 class="widgettitle">INFORMATION?</h2>
-                                <div class="menu-footer-information-container">
-                                    <ul id="menu-footer-information" class="menu">
-                                        <li class="menu-item"><a href="#">About Us</a></li>
-                                        <li class="menu-item"><a href="#">Privacy Policy</a></li>
-                                        <li class="menu-item"><a href="#">Terms &amp; Conditions</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-lg-2 col-md-3">
-                        <div class="column-inner ">
-                            <div class="widget widget_nav_menu">
-                                <h2 class="widgettitle">QUESTION?</h2>
-                                <div class="menu-footer-question-container">
-                                    <ul id="menu-footer-question" class="menu">
-                                        <li class="menu-item"><a href="#">Help</a></li>
-                                        <li class="menu-item"><a href="#">FQA</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-lg-2 col-md-3">
-                        <div class="column-inner ">
-                            <div class="widget widget_nav_menu">
-                                <h2 class="widgettitle">MY ACCOUNT</h2>
-                                <div class="menu-footer-my-account-container">
-                                    <ul id="menu-footer-my-account" class="menu">
-                                        <li class="menu-item"></li>
-                                        <li class="menu-item"><a href="#">Order History</a></li>
-                                        <li class="menu-item"><a href="#">Wish List</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <p>Giambae Group LLC
+                            <br>
+                            Phone:
+                            914 488 4025
+                            <br>
+
+                            Fax:
+                            914 840 8575
+                        </p>
                     </div>
                 </div>
             </div>

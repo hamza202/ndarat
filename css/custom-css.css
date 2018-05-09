@@ -1902,11 +1902,17 @@ ul.collapsible-tab li.open .content {}
 #sizetable .goption{
     padding-top: 9px;
 }
+.column-inner{
+    margin-top: 50px;
+}
 @media (max-width: 991px) {
     .mobile-navigation {
         margin: 27px 0;
         margin-right: 10px;
     }
+}
+.mt--50{
+    margin-top: -50px;
 }
 @media only screen and (max-width : 768px) {
     .header-control{
