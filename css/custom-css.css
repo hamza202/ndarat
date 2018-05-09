@@ -1895,6 +1895,13 @@ ul.collapsible-tab li.open .content {}
 #sizetable th{
     display: none;
 }
+#sizetable tr input[type='radio']{
+    width: 20px;
+    height: 20px
+}
+#sizetable .goption{
+    padding-top: 9px;
+}
 @media (max-width: 991px) {
     .mobile-navigation {
         margin: 27px 0;
