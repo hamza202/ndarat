@@ -1885,6 +1885,16 @@ ul.collapsible-tab li.open .content {}
     top: 0;
     background: rgba(0,0,0,0.5);
 }
+#sizetable tr,
+#sizetable td{
+    border: 0;
+}
+#sizetable {
+    border: 0;
+}
+#sizetable th{
+    display: none;
+}
 @media (max-width: 991px) {
     .mobile-navigation {
         margin: 27px 0;
